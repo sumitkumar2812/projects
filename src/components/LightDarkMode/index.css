@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 60vw;
+  margin: auto;
+  padding: 20px;
+  padding-top: 20px;
+}
+.main-heading {
+  font-size: 20px;
+  font-family: Bree Serif;
+  font-weight: bold;
+  color: #f0bb03;
+  text-align: center;
+}
+
+.button1 {
+  background-color: #ffffff;
+  font-size: 18px;
+  font-family: Bree Serif;
+  font-weight: 500;
+  color: #1e293b;
+  text-align: center;
+  height: 50px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 0;
+  font-size: 15px;
+}
+.button2 {
+  background-color: #ffffff;
+  font-size: 18px;
+  font-family: Bree Serif;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+  height: 50px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: black;
+  font-size: 15px;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.light-dark-mode-container1 {
+  height: 200px;
+  width: 300px;
+  background-color: black;
+  border-radius: 10px;
+  border-width: 0;
+}
+
+.light-dark-mode-container2 {
+  height: 200px;
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0;
+}
